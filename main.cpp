@@ -2,6 +2,7 @@
 
 void main(){
   puts("Hola mundo");
+  puts("Cruel");
 
 }
 
