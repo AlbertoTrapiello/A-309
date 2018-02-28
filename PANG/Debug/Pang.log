@@ -1,0 +1,3 @@
+﻿  Pang.cpp
+Pang.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Pang.vcxproj -> C:\Users\alberto\Desktop\PANG\.\Debug\Pang.exe
